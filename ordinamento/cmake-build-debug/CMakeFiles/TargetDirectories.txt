@@ -1,0 +1,3 @@
+C:/Users/hroth/CLionProjects/ordinamento/cmake-build-debug/CMakeFiles/ordinamento.dir
+C:/Users/hroth/CLionProjects/ordinamento/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hroth/CLionProjects/ordinamento/cmake-build-debug/CMakeFiles/rebuild_cache.dir

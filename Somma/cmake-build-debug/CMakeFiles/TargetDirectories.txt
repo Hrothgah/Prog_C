@@ -1,0 +1,3 @@
+C:/Users/hroth/CLionProjects/Somma/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hroth/CLionProjects/Somma/cmake-build-debug/CMakeFiles/Somma.dir
+C:/Users/hroth/CLionProjects/Somma/cmake-build-debug/CMakeFiles/rebuild_cache.dir
