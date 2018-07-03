@@ -1,0 +1,4 @@
+gcc -g -c -o main.o main.c
+gcc -g -c -o list.o list.c
+gcc -g -std=c99 main.o list.o -o list
+./list
